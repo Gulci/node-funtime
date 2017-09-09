@@ -1,7 +1,7 @@
 {
   "name": "hello-world",
   "version": "1.0.0",
-  "description": "Dead simple \\\"Hello Wrold!\\\" example using Koa.",
+  "description": "Dead simple \"Hello World!\" example using Koa.",
   "repository": {
     "type": "git",
     "url": "https://github.com/Gulci/node-funtime"
