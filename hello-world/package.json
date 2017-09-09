@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Dead simple \\\"Hello Wrold!\\\" example using Koa.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gulci/node-funtime"
+  },
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Muniz",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "nodemon": "^1.12.0"
+  },
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
+}
