@@ -1,8 +1,8 @@
 # GraphQL Hello World!
 
-A very basic GraphQL set-up using [Koa](koajs.com), [Apollo Server](https://github.com/apollographql/apollo-server), [better-koa-router](https://github.com/tunnckocore/koa-better-router), and [koa-better-body](https://github.com/tunnckocore/koa-better-body).
+A very basic [GraphQL](http://graphql.org/) set-up using [Koa](koajs.com), [Apollo Server](https://github.com/apollographql/apollo-server), [better-koa-router](https://github.com/tunnckocore/koa-better-router), and [koa-better-body](https://github.com/tunnckocore/koa-better-body).
 
-The scheme includes a very simple 'hello' query that returns the string 'world!'.
+The scheme includes a very simple 'hello' query that returns the string `world!`.
 
 ## Setup
 

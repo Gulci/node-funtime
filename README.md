@@ -11,3 +11,6 @@ ___
 ## Project Directory
 [Hello World!](hello-world/)
 Dead simple "Hello World!" example using Koa.
+
+[GraphQL Hello World!](graphql-hello-world/)
+Simple "Hello World!" GraphQL query using Koa.
