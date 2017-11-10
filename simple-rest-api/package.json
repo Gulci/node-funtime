@@ -1,0 +1,27 @@
+{
+  "name": "simple-rest-api",
+  "version": "1.0.0",
+  "description": "Dead simple \"Hello World!\" example using Koa.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gulci/node-funtime"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js --exec 'npm run lint . && node'",
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Muniz",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "nodemon": "^1.12.0"
+  },
+  "dependencies": {
+    "clarifai": "^2.4.0",
+    "dotenv": "^4.0.0",
+    "koa": "^2.3.0"
+  }
+}

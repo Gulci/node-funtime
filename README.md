@@ -14,3 +14,6 @@ Dead simple "Hello World!" example using Koa.
 
 [GraphQL Hello World!](graphql-hello-world/)
 Simple "Hello World!" GraphQL query using Koa.
+
+[Simple REST API](simple-rest-api/)
+Simple REST API demonstrating usage of `async` / `await` with the Clarifai API.
