@@ -1,7 +1,7 @@
 {
   "name": "simple-rest-api",
   "version": "1.0.0",
-  "description": "Dead simple \"Hello World!\" example using Koa.",
+  "description": "Dead simple API example using Koa.",
   "repository": {
     "type": "git",
     "url": "https://github.com/Gulci/node-funtime"
